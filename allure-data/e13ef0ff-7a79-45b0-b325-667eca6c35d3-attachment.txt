@@ -1,0 +1,46 @@
+[ {
+  "id" : 922723,
+  "username" : "emmanuel.harris",
+  "firstName" : "Hector",
+  "lastName" : "Keeling",
+  "email" : "destiny.murazik@gmail.com",
+  "password" : "ibculpfybz64bku",
+  "phone" : "1-994-030-5322",
+  "userStatus" : 0
+}, {
+  "id" : 6280488,
+  "username" : "maryrose.baumbach",
+  "firstName" : "Tegan",
+  "lastName" : "Wintheiser",
+  "email" : "sharee.marquardt@hotmail.com",
+  "password" : "9e2h86wl",
+  "phone" : "(444) 332-5227",
+  "userStatus" : 0
+}, {
+  "id" : 8821378,
+  "username" : "gus.ortiz",
+  "firstName" : "Shawnda",
+  "lastName" : "Fisher",
+  "email" : "rosa.larkin@yahoo.com",
+  "password" : "1j7r1amabzme9if",
+  "phone" : "1-784-484-6790",
+  "userStatus" : 0
+}, {
+  "id" : 9346109,
+  "username" : "an.spencer",
+  "firstName" : "Shelby",
+  "lastName" : "Tromp",
+  "email" : "nelly.wilkinson@yahoo.com",
+  "password" : "xbuiex261axlzyb",
+  "phone" : "(621) 018-3935",
+  "userStatus" : 0
+}, {
+  "id" : 755274,
+  "username" : "carrie.botsford",
+  "firstName" : "Ray",
+  "lastName" : "Cole",
+  "email" : "lida.schroeder@hotmail.com",
+  "password" : "ozfhghh6",
+  "phone" : "1-688-730-8860",
+  "userStatus" : 0
+} ]

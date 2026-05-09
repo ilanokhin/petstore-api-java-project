@@ -1,0 +1,10 @@
+{
+  "id" : 759116,
+  "username" : "lorita.reichel",
+  "firstName" : "Bunny",
+  "lastName" : "Gorczany",
+  "email" : "sherill.heller@gmail.com",
+  "password" : "33urvhn3zh",
+  "phone" : "(784) 552-2684",
+  "userStatus" : 0
+}

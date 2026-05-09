@@ -1,0 +1,7 @@
+services:
+  api-tests:
+    image: java-api-testing:latest
+    build: .
+    volumes:
+      - .:/docker/project
+    command: /bin/sh -c "mvn clean test || true; allure generate allure-data -c --single-file"

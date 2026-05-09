@@ -1,0 +1,13 @@
+{
+  "id" : 9223372036854775669,
+  "category" : {
+    "id" : 0,
+    "name" : "string"
+  },
+  "photoUrls" : [ "string" ],
+  "tags" : [ {
+    "id" : 0,
+    "name" : "string"
+  } ],
+  "status" : "available"
+}
